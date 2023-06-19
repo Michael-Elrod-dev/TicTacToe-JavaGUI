@@ -1,6 +1,6 @@
 # TicTacToe-JavaGUI
 
-Utilizing Java Swing, this program creates a game of Tic-Tac-Toe with a graphical user interface. The players get the choose how many players there are, the number of connections you need to win, and the size of the board.
+Utilizing Java Swing, this program creates a game of Tic-Tac-Toe with a graphical user interface. The players get to choose how many players there are, the number of connections you need to win, and the size of the board.
 
 Some of the files in this program are not used as this implementation was built on-top of an older version that did not utilize a GUI.
 
